@@ -1,0 +1,33 @@
+#id1{
+    background: url(../img/a.png);
+}
+.colortxt{
+    color: green
+}
+#id2{
+    color:orange
+}
+[specatr]{
+    color:purple
+}
+*{
+    color:red
+}
+div{
+    color:aqua !important
+}
+div{
+    color:black !important
+}
+h1{
+    color:yellow
+}
+.dwtxt{
+    color:white
+}
+.uptxt{
+    color:blue
+}
+h2{
+    color:darkgreen
+}
